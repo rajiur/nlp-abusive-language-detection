@@ -1,3 +1,5 @@
+It was a task (assignment) for Natural Language Processing Course (Spring 2020). 
+
 The task was to implement an abusive language classi_er using Recurrent Neural Networks (RNNs) in Python 3.
 
 The main modules to implement to achieve the goal of this assignment were
